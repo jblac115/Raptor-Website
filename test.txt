@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="desciption" content="Describe your page." />
+ 	<meta name="keywords" content="search phrases, spelling mistakes"/>
+	<meta name="author" content="who owns it"/>
+	<meta name="rating" content="general" />
+
+</head>
+<body>
+</body>
+</html>
