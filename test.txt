@@ -5,7 +5,7 @@
  	<meta name="keywords" content="search phrases, spelling mistakes"/>
 	<meta name="author" content="who owns it"/>
 	<meta name="rating" content="general" />
-
+	Adding something new to the website
 </head>
 <body>
 </body>
